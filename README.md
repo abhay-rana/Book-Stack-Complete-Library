@@ -2,7 +2,8 @@
 This is a java android app with having amaing ui and  very amazing features thisd is the best bookmanagement app you have ever seen i think so ..
 
 This app is perfect template for the library or book storing app in well organized manner , completely tested on arious phones and bug free
-download the apk from here => https://drive.google.com/file/d/1kGt10RPxOOd1LN0mUMjssyNmIu9gG_1S/view?usp=sharing
+download the apk from here => https://drive.google.com/file/d/1kGt10RPxOOd1LN0mUMjssyNmIu9gG_1S/view?usp=sharing/
+
 This android app features:-
 * integration of admob and facebook ads 
 * owner can upload and download the book to the digitalocean from inside the app it has admin panel also
